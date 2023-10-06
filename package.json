@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "next": "^13.5.4",
+    "pdf2json": "^3.0.4",
+    "pdfjs-dist": "*",
+    "tesseract.js": "^5.0.0"
+  },
+  "types": "module"
+}
